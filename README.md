@@ -42,7 +42,7 @@ Try the one you prefer. Also the "other Button".
 Thanks for your interest in my projects.
 
 
- Enjoy building it and thanks for you positive feedback
+ Enjoy building it and thanks for your positive feedback
  
  Sandor
  DM4DS
