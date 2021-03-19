@@ -10,6 +10,9 @@ Please unZIP them after download . no password set.
 If you look for the PINout? Look into the sketch, all PINs are commented.
 So just build it and connect everything like described in the sketch.
 You are allowed to modify the sketch for your needs, but you have to name me as original author: DM4DS - Sandor
+NO commercial usage of my files, code, design, intellectual property, not even parts of them without my OK or
+you accept automatic an invoice of one thousand euro for each sold one in favor of the German RED Cross.
+But back to the fun part of this project. :) !
 
 My most Arduino UNOs have the big USB , like printers , then the case named UNO is the correct one.
 Most Leonardos do have the small Mikro USB, or if you have an UNO with it, use the LEONARDO case.
