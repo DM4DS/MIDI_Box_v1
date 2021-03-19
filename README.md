@@ -51,3 +51,4 @@ PS: I´m still working on the big one with DDS for CW and Roger beep / Quindar t
 - positive feedback
 - - time :) but it will come!
 
+![](https://komarev.com/ghpvc/?username=DM4DS)
