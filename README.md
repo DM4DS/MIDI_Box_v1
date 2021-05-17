@@ -59,4 +59,6 @@ PS: I´m still working on the big one with DDS for CW and Roger beep / Quindar t
 - positive feedback
 - - time :) but it will come!
 
+Thomas did a great video for the germans: https://www.youtube.com/watch?v=L0vIa9qglLA
+
 ![](https://komarev.com/ghpvc/?username=DM4DS)
